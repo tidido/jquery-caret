@@ -1,0 +1,6 @@
+{
+  "name": "jquery-caret",
+  "description": "Simple caret moving mofo jQuery plugin",
+  "version": "0.0.0",
+  "main": "jquery.caret.js"
+}
